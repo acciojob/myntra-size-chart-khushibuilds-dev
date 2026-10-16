@@ -1,2 +1,30 @@
 
 /* Your CSS Code here. */
+.size-chart{
+	border-collapse: collapse;
+	width: 100%;
+	font-size: 14px;
+}
+
+.size-chart th{
+	text-align: left;
+	background-color: indianred;
+	color: ghostwhite;
+	
+}
+
+
+.row-2{
+	background-color: hotpink;
+	color: white;
+	text-align-last: right;
+}
+
+.row-3{
+	background-color: mintcream;
+	color: black;
+}
+.row-4{
+	background-color: graytext;
+	color: black;
+}
